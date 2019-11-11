@@ -1,0 +1,8 @@
+# Log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# OSX folder metadata
+.DS_Store
