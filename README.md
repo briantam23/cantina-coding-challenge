@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/briantam23/cantina-coding-challenge.svg?token=qfoyGnbzJbjd9K4Z3Dnz&branch=master)](https://travis-ci.com/briantam23/cantina-coding-challenge)
+
+
 # 💻 Cantina Coding Challenge
 
 ## Table of contents
@@ -5,6 +8,7 @@
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Running Locally](#running-locally)
+* [Tests](#tests)
 
 ## Dependencies
 
@@ -32,4 +36,18 @@ npm install # or yarn install
 
 ```sh
 npm start
+```
+
+## Tests
+
+Created Tests for Functions:
+
+> To run without "watch mode": 
+```sh
+npm test
+``` 
+
+> To run with "watch mode":
+```sh
+npm run test:dev
 ```
