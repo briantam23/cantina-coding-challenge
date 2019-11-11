@@ -7,10 +7,15 @@
     "axios": "^0.19.0",
     "prompt": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
   "scripts": {
     "start": "node .app/index.js",
-    "start:dev": "nodemon .app/index.js"
+    "start:dev": "nodemon .app/index.js",
+    "test": "mocha ./test/*.test.js",
+    "test:dev": "npm test -- --watch"
   },
   "keywords": [],
   "author": "",
