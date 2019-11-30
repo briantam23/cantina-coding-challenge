@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.com/briantam23/cantina-coding-challenge.svg?token=qfoyGnbzJbjd9K4Z3Dnz&branch=master)](https://travis-ci.com/briantam23/cantina-coding-challenge)
+[![Build Status](https://travis-ci.com/briantam23/recursing-tree-like-ds.svg?token=qfoyGnbzJbjd9K4Z3Dnz&branch=master)](https://travis-ci.com/briantam23/recursing-tree-like-ds)
 
 
-# 💻 Cantina Coding Challenge
+# 🛠 Recursing Tree-like Data Structures
 
 ## Table of contents
 * [Dependencies](#dependencies)
@@ -24,7 +24,7 @@
 
 Step 1: Clone Repo
 ```sh
-git clone https://github.com/briantam23/cantina-coding-challenge.git` # or clone your own fork
+git clone https://github.com/briantam23/recursing-tree-like-ds.git` # or clone your own fork
 ```
 
 Step 2: Install `node_modules`
